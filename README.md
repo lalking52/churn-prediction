@@ -1,4 +1,4 @@
-# Telco Churn Prediction — Top-K + Profit Optimization
+# Telco Churn Prediction : Top-K + Profit Optimization
 
 Проект прогнозирования оттока клиентов (churn) на табличных данных.  
 Модель используется не только как классификатор, но и как скоринг для ранжирования клиентов, чтобы:
